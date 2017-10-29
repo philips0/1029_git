@@ -1,0 +1,13 @@
+01. 切換資料夾指令:cd  
+    Linux : ls
+
+02. git status查看狀態    
+    有變動的資料會呈現紅色  ((還在工作區
+
+03. git add . 將檔案加入道暫存(集結)區
+    add . 是指全部加入   亦可針對單一檔案
+
+04. git commit -m"" 加入敘述
+    git config --global~~~ 告知user端資訊  ((理論上要先給
+
+05. git push origin master 上傳

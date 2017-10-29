@@ -1,0 +1,5 @@
+01. 建立資料夾
+    git init 使資料夾可受git控制
+    會出現(master)
+
+02. git remote add origin 建立連結
